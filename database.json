@@ -139,7 +139,7 @@
     "products": [
         {
             "id": 1,
-            "name": "Peanute butter cups",
+            "name": "Peanut butter cups",
             "typeId": 1,
             "price": 2.50
         },{
