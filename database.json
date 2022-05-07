@@ -37,13 +37,19 @@
             "id": 1,
             "name": "Dave Johnson",
             "title": "Manager",
-            "store": 1
+            "storeId": 1
         },
         {
             "id": 2,
             "name": "Erin Johnson",
             "title": "Manager",
-            "store": 2
+            "storeId": 2
+        },
+        {
+            "id": 3,
+            "name": "Tom Johnson",
+            "title": "Manager",
+            "storeId": 3
         }
     ],
     "locations": [
