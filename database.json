@@ -118,34 +118,52 @@
             ]
         }
     ],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Chocolate"
+        },
+        {
+            "id": 2,
+            "type": "Gummy"
+        },
+        {
+            "id": 3,
+            "type": "Hard Candy"
+        },
+        {
+            "id": 4,
+            "type": "Gum"
+        }
+    ],
     "products": [
         {
             "id": 1,
             "name": "Peanute butter cups",
-            "type": "Chocolate",
+            "typeId": 1,
             "price": 2.50
         },{
             "id": 2,
             "name": "Gummy worms",
-            "type": "Gummy",
+            "typeId": 2,
             "price": 1.99
         },
         {
             "id": 3,
             "name": "Lollipops",
-            "type": "Hard candy",
+            "typeId": 3,
             "price": 1
         },
         {
             "id": 4,
             "name": "Sourfuls",
-            "type": "Gummy",
+            "typeId": 2,
             "price": 3
         }, 
         {
             "id": 5,
             "name": "Juicy Fruit",
-            "type": "Gum",
+            "typeId": 4,
             "price": 1.50
         }
     ],
